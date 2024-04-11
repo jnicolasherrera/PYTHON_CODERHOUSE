@@ -44,7 +44,9 @@ print(cadena_volteada)
 print(nombre_alumno)
 
 # 3. Extraer la nota y almacenarla en una variable llamada nota.
-nota = float(cadena_volteada.split(",")[1].strip())
+nota = float(
+    cadena_volteada.split(",")[1].strip()
+)  # split separa la cadena en una lista de cadenas strip elimina los espacios en blanco
 
 # 4. Extraer la materia y almacenarla en una variable llamada materia.
 materia = cadena_volteada.split(",")[2].strip()
