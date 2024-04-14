@@ -8,5 +8,5 @@ Arme este repo para ir subiendo los ejercicios de cada clases para que se puesa 
 
 ## Indice
 
-- [Clase 1](https://github.com/jnicolasherrera/PYTHON_CODERHOUSE/blob/f18452c4f3e0f4ae45a2cf9ac0c0cb28298ab622/Clase_01)
-- [Clase 2](https://github.com/jnicolasherrera/PYTHON_CODERHOUSE/blob/f18452c4f3e0f4ae45a2cf9ac0c0cb28298ab622/Clase_02)
+- [Clase 1](https://github.com/jnicolasherrera/PYTHON_CODERHOUSE/blob/5a80bf797edcfd18db694c05c7ecb04c55a4eacf/Clase_01)
+- [Clase 2](https://github.com/jnicolasherrera/PYTHON_CODERHOUSE/blob/5a80bf797edcfd18db694c05c7ecb04c55a4eacf/Clase_02)
